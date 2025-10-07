@@ -1,8 +1,8 @@
-Privacy Policy for Runner Royal
+Privacy Policy for Endless Sprint
 Last updated: 05/10/2025
 
 1. Introduction
-This Privacy Policy describes how Runner Royal ("we", "our", or "us") collects, uses, and shares information when you play our mobile game Runner Royal ("the Game").
+This Privacy Policy describes how Endless Sprint ("we", "our", or "us") collects, uses, and shares information when you play our mobile game Runner Royal ("the Game").
 
 2. Information We Collect
 2.1 Information Automatically Collected
