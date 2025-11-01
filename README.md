@@ -80,3 +80,53 @@ Update contact information with your actual email and developer name
 Add current date when publishing
 Review Unity Ads settings in your game to ensure accuracy
 Consider adding language about any future features (cloud saves, social features, etc.)
+5.3 Google Ads SDK (AdMob)
+
+Our game uses Google Mobile Ads SDK (AdMob) to display advertisements.
+AdMob may collect and process certain data to provide, personalize, and measure ads, including:
+
+Advertising ID (AAID or IDFA)
+
+Device information (such as device model, OS version, language, and network information)
+
+App activity data, including interactions with ads
+
+IP address (used for general location estimation)
+
+
+This information is used by Google and its partners to:
+
+Deliver relevant advertisements
+
+Measure ad performance and engagement
+
+Detect and prevent fraud or abuse
+
+
+For more information about how Google collects and uses data in advertising, please visit:
+👉 https://policies.google.com/technologies/ads
+
+Personalized Ads
+
+Depending on your region and Google Play settings:
+
+You may be shown personalized or non-personalized ads.
+
+You can control personalized ad preferences through your device settings (e.g., "Opt out of Ads Personalization" on Android).
+
+
+Child-Directed Ads
+
+If the game is marked for children or uses a mixed audience setting, AdMob automatically serves non-personalized ads in compliance with Google’s Families Policy and COPPA regulations.
+
+
+---
+
+Bu bölümü, mevcut metnindeki “5. Third-Party Services” başlığı altına Unity Ads bölümünden hemen sonra ekleyebilirsin.
+Ayrıca, politikadaki “Google Play Console Specific Requirements” kısmına da küçük bir madde eklenebilir:
+
+
+---
+
+✅ Advertising Disclosure: Discloses both Unity Ads and Google AdMob integrations
+
